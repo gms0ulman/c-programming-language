@@ -26,10 +26,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="0 Hello World.c">
+    <ClCompile Include="Excercise 1-4.c">
       <Filter>Chapter 1</Filter>
     </ClCompile>
-    <ClCompile Include="Excercise 1-4.c">
+    <ClCompile Include="1-1 Hello World.c">
       <Filter>Chapter 1</Filter>
     </ClCompile>
   </ItemGroup>
