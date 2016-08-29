@@ -1,6 +1,6 @@
 // include the standard input/output c library header file 
 # include <stdio.h>
-
+//page 8
 // programme returns type int, take void as input (i.e. no inputs)
 int main(void){
 	

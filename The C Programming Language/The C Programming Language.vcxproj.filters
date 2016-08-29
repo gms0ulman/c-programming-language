@@ -18,18 +18,45 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="1.2 Print FC Table.c">
+    <None Include="1-3b Print FC Table v2.c">
       <Filter>Chapter 1</Filter>
     </None>
-    <None Include="1.2 Print FC Table v2.c">
+    <None Include="1-3a Print FC Table v1.c">
       <Filter>Chapter 1</Filter>
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Excercise 1-4.c">
+    <ClCompile Include="1-3e Print FC Table - add header.c">
+      <Filter>Chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="1-5a 1.4 Symbolic Constants.c">
+      <Filter>Chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="1-5 Reverse Order table.c">
+      <Filter>Chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="1-4 Celsius to Fahrenheit.c">
       <Filter>Chapter 1</Filter>
     </ClCompile>
     <ClCompile Include="1-1 Hello World.c">
+      <Filter>Chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="1-2 Hello World - printf characters.c">
+      <Filter>Chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="1-5b 1.5.1 File Copying.c">
+      <Filter>Chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="1-6 Verify getchar != EOF is 1 or 0.c">
+      <Filter>Chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="1-7a 1.5.2 Character Counting.c">
+      <Filter>Chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="1-7 Print EOF.c">
+      <Filter>Chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="1-7b 1.5.3 Line Counting.c">
       <Filter>Chapter 1</Filter>
     </ClCompile>
   </ItemGroup>

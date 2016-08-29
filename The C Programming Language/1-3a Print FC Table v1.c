@@ -6,14 +6,14 @@
     for fahr = 0, 20, ..., 300 */
 main()
 {
-	// declarations: consisting of type name adn the variable
+	// declarations: consisting of type name and the variable
     int fahr, celsius;
     int lower, upper, step;
     
-	// assignment: sets vriables to initial state
+	// assignment: sets variables to initial state
     lower = 0;		// lower limit of temperature
     upper = 300;	// upper limit
-    step = 20;		// step size
+    step  = 20;		// step size
     
     fahr = lower;
     while (fahr <= upper) {
