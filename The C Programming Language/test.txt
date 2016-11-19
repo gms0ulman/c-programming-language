@@ -1,0 +1,10 @@
+some sample text
+with multiple lines
+and some	tabs	and new lines
+also spaces.	spaces  are  important.
+also spaces.	spaces are important.
+\
+\
+\
+moar
+\

@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{CA882606-BFC3-4571-A0D7-3E632A46ECF6}</ProjectGuid>
-    <RootNamespace>TheCProgrammingLanguage</RootNamespace>
+    <ProjectGuid>{A1AC5EAE-9B96-4BDC-A07B-66B94B4091E5}</ProjectGuid>
+    <RootNamespace>My20Excercise18</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -110,28 +110,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1-1 Hello World.c" />
-    <ClCompile Include="1-2 Hello World - printf characters.c" />
-    <ClCompile Include="1-3e Print FC Table - add header.c" />
-    <ClCompile Include="1-4 Celsius to Fahrenheit.c" />
-    <ClCompile Include="1-5a 1.4 Symbolic Constants.c" />
-    <ClCompile Include="1-5 Reverse Order table.c" />
-    <ClCompile Include="1-5b 1.5.1 File Copying.c" />
-    <ClCompile Include="1-7 Print EOF.c" />
-    <ClCompile Include="1-6 Verify getchar != EOF is 1 or 0.c" />
-    <ClCompile Include="1-7a 1.5.2 Character Counting.c" />
-    <ClCompile Include="19 Line Counting.c" />
-    <ClCompile Include="20 1-10 = I to the O - Replace 2.c" />
-    <ClCompile Include="20 1-08 = Count whitespace.c" />
-    <ClCompile Include="20 1-09 =  I to the O - Replace 1.c" />
-    <ClCompile Include="21 1-12 = I to the O - 1word.c" />
-    <ClCompile Include="24 1-13 = Histogram.c" />
-    <ClCompile Include="24 1-14 = Letter Histogram - skipped.c" />
-    <ClCompile Include="27 1-15 = Temp convert with Functions.c" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="1-3b Print FC Table v2.c" />
-    <None Include="1-3a Print FC Table v1.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

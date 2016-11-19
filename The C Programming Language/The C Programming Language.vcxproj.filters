@@ -56,7 +56,28 @@
     <ClCompile Include="1-7 Print EOF.c">
       <Filter>Chapter 1</Filter>
     </ClCompile>
-    <ClCompile Include="1-7b 1.5.3 Line Counting.c">
+    <ClCompile Include="24 1-13 = Histogram.c">
+      <Filter>Chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="21 1-12 = I to the O - 1word.c">
+      <Filter>Chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="20 1-10 = I to the O - Replace 2.c">
+      <Filter>Chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="20 1-09 =  I to the O - Replace 1.c">
+      <Filter>Chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="20 1-08 = Count whitespace.c">
+      <Filter>Chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="19 Line Counting.c">
+      <Filter>Chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="24 1-14 = Letter Histogram - skipped.c">
+      <Filter>Chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="27 1-15 = Temp convert with Functions.c">
       <Filter>Chapter 1</Filter>
     </ClCompile>
   </ItemGroup>
